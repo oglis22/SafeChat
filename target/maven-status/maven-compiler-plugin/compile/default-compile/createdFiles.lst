@@ -1,0 +1,5 @@
+de\code\client\TCPClient.class
+de\code\gui\GUI.class
+de\code\gui\SendMessageEvent.class
+de\code\server\TCPServer.class
+de\code\Main.class
